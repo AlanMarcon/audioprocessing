@@ -186,12 +186,8 @@ if __name__ == '__main__':
 			if (arquivos_left[i][:-6] == arquivos_right[j][:-6]):
 				print (arquivos_left[i]+' <=> '+arquivos_right[j])
 				detecta(arquivos_left[i],arquivos_right[j],arquivos_left[i][:-6]+'.wav') #Call detection function
-		break		
 
 
-
-
-'''
 resultados = [detecta(x) for x in arquivos] #Detect by List compreetions
 print ''
 print 'Arquivos das Deteccoes'
@@ -199,4 +195,3 @@ print 'Numero de arquivos: ',len(arquivos)
 print ''
 print 'Bem sucedidos: ',resultados.count(True)
 print 'Mal sucedidos: ',resultados.count(False)
-'''
