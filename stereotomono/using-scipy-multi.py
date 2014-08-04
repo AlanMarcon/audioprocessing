@@ -11,7 +11,6 @@ import os
 arquivos = glob.glob('*.wav')
 
 os.system("clear")
-
 for i in arquivos:
 	fs, data = wavfile.read(arquivos[i])
 	wavfile.write(audio_file[:-4]+'-l.wav',fs,data[:,0])
