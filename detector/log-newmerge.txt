@@ -1,0 +1,152 @@
+
+
+--------------------------------------
+BRMTPPA007S_20130125_141014.wav
+--------------------------------------
+
+--------------------------------------
+Corte n:0
+Inicio do corte: 0seg
+Fim do corte: 10seg
+
+--------------------------------------
+Corte n:1
+Inicio do corte: 0seg
+Fim do corte: 24seg
+
+--------------------------------------
+Corte n:2
+Inicio do corte: 4seg
+Fim do corte: 1min 57seg
+
+--------------------------------------
+Corte n:3
+Inicio do corte: 1min 36seg
+Fim do corte: 1min 57seg
+
+--------------------------------------
+Corte n:4
+Inicio do corte: 4min 45seg
+Fim do corte: 5min 05seg
+
+--------------------------------------
+Corte n:5
+Inicio do corte: 9min 13seg
+Fim do corte: 9min 33seg
+
+--------------------------------------
+Corte n:6
+Inicio do corte: 6min 10seg
+Fim do corte: 6min 30seg
+
+--------------------------------------
+Corte n:7
+Inicio do corte: 12min 36seg
+Fim do corte: 12min 46seg
+
+--------------------------------------
+Corte n:8
+Inicio do corte: 8min 45seg
+Fim do corte: 9min 05seg
+
+--------------------------------------
+Corte n:9
+Inicio do corte: 9min 10seg
+Fim do corte: 9min 33seg
+
+--------------------------------------
+Corte n:10
+Inicio do corte: 11min 57seg
+Fim do corte: 12min 17seg
+
+--------------------------------------
+Corte n:11
+Inicio do corte: 12min 37seg
+Fim do corte: 12min 47seg
+
+
+
+5min 10seg
+
+--------------------------------------
+BRMTPPA007S_20130125_141014F.wav
+--------------------------------------
+
+--------------------------------------
+Corte n:0
+Inicio do corte: 0seg
+Fim do corte: 10seg
+
+--------------------------------------
+Corte n:1
+Inicio do corte: 5seg
+Fim do corte: 35seg
+
+--------------------------------------
+Corte n:2
+Inicio do corte: 15seg
+Fim do corte: 1min 28seg
+
+--------------------------------------
+Corte n:3
+Inicio do corte: 1min 08seg
+Fim do corte: 1min 57seg
+
+--------------------------------------
+Corte n:4
+Inicio do corte: 1min 35seg
+Fim do corte: 1min 57seg
+
+--------------------------------------
+Corte n:5
+Inicio do corte: 9min 02seg
+Fim do corte: 9min 33seg
+
+--------------------------------------
+Corte n:6
+Inicio do corte: 2min 07seg
+Fim do corte: 2min 27seg
+
+--------------------------------------
+Corte n:7
+Inicio do corte: 12min 34seg
+Fim do corte: 12min 46seg
+
+--------------------------------------
+Corte n:8
+Inicio do corte: 3min 26seg
+Fim do corte: 3min 46seg
+
+--------------------------------------
+Corte n:9
+Inicio do corte: 4min 45seg
+Fim do corte: 5min 09seg
+
+--------------------------------------
+Corte n:10
+Inicio do corte: 7min 38seg
+Fim do corte: 7min 58seg
+
+--------------------------------------
+Corte n:11
+Inicio do corte: 8min 44seg
+Fim do corte: 9min 05seg
+
+--------------------------------------
+Corte n:12
+Inicio do corte: 9min 02seg
+Fim do corte: 9min 33seg
+
+--------------------------------------
+Corte n:13
+Inicio do corte: 11min 14seg
+Fim do corte: 11min 36seg
+
+--------------------------------------
+Corte n:14
+Inicio do corte: 12min 36seg
+Fim do corte: 12min 47seg
+
+
+
+6min 35seg
