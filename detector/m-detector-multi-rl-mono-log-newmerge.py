@@ -116,7 +116,7 @@ def detecta(arquivo_audio_l,arquivo_audio_r,file_name):
 			return sec+'seg'	
 	
 	def list_of_slices(lista): #Return list of slices
-		sec = 48000*10  # Backgroud seconds
+		sec = 48000*11  # Backgroud seconds
 		ini = lista[0] # Slice's start
 		end = 0 # Slice's end
 		i = 0 # index
@@ -252,7 +252,8 @@ def detecta(arquivo_audio_l,arquivo_audio_r,file_name):
 					f.write('--------------------------------------'+'\n')
 					f.write('Corte n:'+str(cont)+'\n')
 					f.write('Inicio do corte: '+escDur(str(frToSeg(ini)))+'\n')
-					f.write('Fim do corte: '+escDur(str(frToSeg(end)))+'\n')	
+					f.write('Fim do corte: '+escDur(str(frToSeg(end)))+'\n')
+					f.write('Tempo total: '+escDur(str(frToSeg(end-ini)))+'\n')	
 				#slice(wave.open(escolhido,"r"), out_file , ini, end, fn) #funcao de corte
 				cont += 1			 
 
