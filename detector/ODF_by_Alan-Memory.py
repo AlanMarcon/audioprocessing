@@ -42,7 +42,6 @@ import glob
 import wave
 
 # Usefull Libraries
-from os import system
 import os
 
 # For essentia ODF
@@ -510,7 +509,7 @@ def detecta(audioin,option,backgroud,audio): # ODF main function
 
 #------------Main----------------------------------------------------------------------------
 @profile
-def main():
+def main(): # Main function
 	os.system('clear')
 	#Exibir menu
 	#option,backgroud = menu()
@@ -523,8 +522,6 @@ def main():
 	print 'Loading audio file...'
 	audio = MonoLoader(filename = sys.argv[1])() # A numpy array contain the actual used aidio
 	gc.collect()
-	#rate, audio  = wavfile.read(sys.argv[1])
-	#print(type(som))
 
 	#Call the detection manually
 	detecta(sys.argv[1],3,10,audio)
@@ -544,7 +541,6 @@ def main():
 		lg.write('\n\n')
 		
 	#Finished
-	#os.system('clear')
 	print('Done!')
 
 
